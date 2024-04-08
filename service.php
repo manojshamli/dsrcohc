@@ -1,0 +1,1 @@
+<?php echo "Make Simple PHP File For Multipurpose e.g CRON File"; ?>
